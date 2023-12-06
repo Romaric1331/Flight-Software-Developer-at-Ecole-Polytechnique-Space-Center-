@@ -1,4 +1,4 @@
-# 🛰️ IONSAT CubeSat Communication System using MCP2515 CAN Module
+# 🛰️ IONSAT CubeSat CAN Communication with ADCS
 
 Welcome to the IONSAT project, a collaborative effort by ONERA, CNES, ThrustMe, and École Polytechnique aimed at developing and maintaining a powered nanosatellite in a very low orbit. This project focuses on leveraging the advantages of low orbits, such as reduced communication latency, enhanced resolution, and cost-effective launches.
 
