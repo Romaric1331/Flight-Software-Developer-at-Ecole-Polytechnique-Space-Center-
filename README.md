@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ## 🛰️ IONSAT CubeSat Communication Bus Interface
+=======
+# 🛰️ IONSAT CubeSat Communication Bus Interface
+>>>>>>> 8ebc21c0c739f2226085d3a7b32279fc5c1c8f13
 
 Welcome to the IONSAT project, a collaborative effort by ONERA, CNES, ThrustMe, and École Polytechnique, focused on developing and maintaining a powered nanosatellite in a very low orbit. The project aims to leverage the advantages of low orbits, such as reduced communication latency, enhanced resolution, and cost-effective launches.
 
