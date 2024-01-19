@@ -1,8 +1,6 @@
-<<<<<<< HEAD
-## 🛰️ IONSAT CubeSat Communication Bus Interface
-=======
+
 # 🛰️ IONSAT CubeSat Communication Bus Interface
->>>>>>> 8ebc21c0c739f2226085d3a7b32279fc5c1c8f13
+
 
 Welcome to the IONSAT project, a collaborative effort by ONERA, CNES, ThrustMe, and École Polytechnique, focused on developing and maintaining a powered nanosatellite in a very low orbit. The project aims to leverage the advantages of low orbits, such as reduced communication latency, enhanced resolution, and cost-effective launches.
 
@@ -11,10 +9,10 @@ The IONSAT satellite is designed to launch from the International Space Station 
 
 Once at 300 km altitude, the station-keeping mission commences. The nanosatellite undergoes periodic descents to achieve a lower altitude of 10 km, marking a phased flight operation spanning a desired duration of six months, with potential extensions upon successful mission milestones.
 
-### 🚀 CAN Communication with ADCS
+###  CAN Communication with ADCS
 Effective communication between systems is pivotal for the success of the IONSAT mission. In this initial stage, the MCP2515 CAN bus stand-alone module is deployed to facilitate seamless data exchange between systems via CANH and CAN L bus connectors. This setup ensures inter-system coordination without reliance on a host computer.
 
-#### I2C Communication with Thruster
+### I2C Communication with Thruster
 To establish I2C communication, the STM32F429I Discovery board is utilized. Pinout connections include SCL and SDA pins between the emulator and microcontroller. Additionally, a logic analyzer is employed to debug if no data transfer occurs.
 
 ### 🔗 Resources
