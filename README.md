@@ -14,7 +14,8 @@ Effective communication between systems is pivotal for the success of the IONSAT
 
 ### I2C Communication with Thruster
 To establish I2C communication, the STM32F429I Discovery board is utilized. Pinout connections include SCL and SDA pins between the emulator and microcontroller. Additionally, a logic analyzer is employed to debug if no data transfer occurs.
-
+### Architecture of IonSat
+Established a balanced architecutre and the Logiciel de Vol with different partitions and combinations of various structures from FPGA to program logic
 ### 🔗 Resources
 1. [MCP2515 CAN Module Arduino Tutorial](https://lastminuteengineers.com/mcp2515-can-module-arduino-tutorial/)
 2. [STM32 I2C Tutorial](https://deepbluembedded.com/stm32-i2c-tutorial-hal-examples-slave-dma/)
